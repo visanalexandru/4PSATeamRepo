@@ -1,1 +1,4 @@
-This repository was created for the git team exercise.
+This repository is a git exercise.
+
+This was added on the local branch.
+This was added on the remote branch.
